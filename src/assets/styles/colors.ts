@@ -1,0 +1,20 @@
+export const COLORS = {
+  ACCENT_YELLOW: "#FEC400",
+  ACCENT_YELLOW2: "#FFF6E5",
+  ACCENT_YELLOW3: "#FFE077",
+  BLUE: "#64B5F3",
+  BLUE2: "#E2F3FF",
+  DARK1: "#292825",
+  DARK2: "#5A5855",
+  DARK3: "#989795",
+  DARK_BLUE: "#334D6E",
+  GRAY: "#C2CFE0",
+  GRAY1: "989795",
+  GRAY2: "#818e9b",
+  BACKGROUD: "#F7F8FC",
+  WHITE: "#FFFFFF",
+  BLACK: "#000000",
+  WARNING: "#F29100", // 0: Warning
+  SUCCESS: "#00BB5D", // 0: Success
+  ERROR: "#F9503D", // 0: Error
+};
